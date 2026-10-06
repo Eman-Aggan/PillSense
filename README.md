@@ -23,9 +23,9 @@ in English or Arabic using only that text.
 - Safe refusal when a drug isn't in the database
 
 ## Team
-- Name 1: Vision & Data
-- Name 2: RAG Engine
-- Name 3: LLM & UI
+- Eman: Vision & Data
+- Haidi 2: RAG Engine
+- Ahmed 3: LLM & UI
 
 ## How to run
 1. Open the notebook in Google Colab.
